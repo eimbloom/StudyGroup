@@ -1,10 +1,5 @@
 # StudyGroup
 
-From Scratch & then with Pytorch:
-Linear regression
-Logistic regression
-Naive Bayes
+Play around wine dataset using neural network
 
-Sentiment analysis on some dataset
-
-Can you the following [dataset] from huggingface (https://huggingface.co/datasets/emotion)
+Maybe some music projects later on
